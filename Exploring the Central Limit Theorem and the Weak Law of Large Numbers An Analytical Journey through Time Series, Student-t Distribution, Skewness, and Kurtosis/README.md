@@ -3,7 +3,7 @@
 This directory is dedicated to an in-depth exploration of significant statistical concepts, including the Central Limit Theorem (CLT) and the Weak Law of Large Numbers, through practical examples and data analysis. Using Python and its powerful libraries, I analyze time series data, delve into the properties of the Student-t distribution, and examine metrics such as skewness and kurtosis to gain insights into data distribution characteristics.
 
 ### Installing necessary libraries 
-
+To run the notebook and replicate the findings, ensure you have the following Python packages installed:
 ```bash
 pip install numpy
 pip install matplotlib
