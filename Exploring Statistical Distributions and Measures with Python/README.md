@@ -12,7 +12,7 @@ pip install statsmodels
 ```
 
 
-### Content Overview:
+### Content Overview
 
 - **Sampling and Visualization**: Learn how to generate and visualize a dataset comprising tuples from Normal and Uniform distributions.
 
