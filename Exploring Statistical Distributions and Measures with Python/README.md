@@ -2,7 +2,7 @@
 This directory contains a detailed Jupyter notebook designed to serve as a comprehensive guide for exploring statistical distributions, implementing measures, and visualizing complex data using Python. Through a series of meticulously crafted questions and exercises, the notebook delves into various facets of statistical analysis. This includes sampling from distributions, visualizing four-dimensional data, comparing distribution tails, and understanding the convolution of probability measures.
 
 ### Installation
-To get started with the analysis, you'll need to install some essential Python packages. You can install these by running the following commands in your terminal:
+To run the notebook and replicate the findings, ensure you have the following Python packages installed:
 
 ```bash
 pip install numpy
