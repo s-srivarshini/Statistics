@@ -14,22 +14,22 @@ pip install statsmodels
 
 ### Content Overview:
 
-**Sampling and Visualization**: Learn how to generate and visualize a dataset comprising tuples from Normal and Uniform distributions.
+- **Sampling and Visualization**: Learn how to generate and visualize a dataset comprising tuples from Normal and Uniform distributions.
 
-**QQ Plots**: Dive into comparing the standard normal distribution against the standard Cauchy distribution through QQ plots, with a focus on examining the behavior of their tails.
+- **QQ Plots**: Dive into comparing the standard normal distribution against the standard Cauchy distribution through QQ plots, with a focus on examining the behavior of their tails.
 
-**Probability Measures**: Explore the convolution of two probability measures by computing and visualizing the resulting densities.
+- **Probability Measures**: Explore the convolution of two probability measures by computing and visualizing the resulting densities.
 
-**Sample Mean Distributions**: Investigate how the distribution of sample means changes with varying sample sizes, showcasing the Central Limit Theorem in practice.
+- **Sample Mean Distributions**: Investigate how the distribution of sample means changes with varying sample sizes, showcasing the Central Limit Theorem in practice.
 
 ### Features
 
-**Counting Measures**: Implementation and additivity testing on disjoint sets.
+- **Counting Measures**: Implementation and additivity testing on disjoint sets.
 
-**Interval Handling**: Class-based manipulation of intervals for length measure computation.
+- **Interval Handling**: Class-based manipulation of intervals for length measure computation.
 
-**Distribution Exploration**: Visualization and exploration of the exponential distribution, including the computation of probability mass.
+- **Distribution Exploration**: Visualization and exploration of the exponential distribution, including the computation of probability mass.
 
-**Density Convolution**: Understanding the sum of probability measures through the convolution of beta distributions.
+- **Density Convolution**: Understanding the sum of probability measures through the convolution of beta distributions.
 
-**Central Limit Theorem**: A visual demonstration using sample mean distributions.
+- **Central Limit Theorem**: A visual demonstration using sample mean distributions.
